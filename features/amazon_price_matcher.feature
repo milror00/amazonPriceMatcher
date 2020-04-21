@@ -13,5 +13,4 @@ Feature: To compare the prices for the same product in different countries
 
   Examples:
     |productURL                                                            |
-    |/Bose-Noise-Cancelling-Headphones-Black/dp/B07Q9MJKBV/                |
-             |
+    |/Bose-Noise-Cancelling-Headphones-Black/dp/B07Q9MJKBV/                
