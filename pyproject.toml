@@ -10,7 +10,7 @@ license = "MIT"
 readme = "README.md"
 
 homepage = ""
-repository = "https://github.com/pyscrape/currencies"
+repository = "https://github.com/pyscrape/amazonPriceMatcher.git"
 documentation = ""
 
 keywords = ["packaging", "dependency", "poetry"]
