@@ -14,7 +14,15 @@ Requirements to run :
 Steps for installation:
 
 1. Clone git repo
+2. cd amzonPriceMatcher
+3. pip install -r requirements.txt
+4. run python .\app\AmazonPriceMatcher.py
 
+
+
+Results:
+
+['299.00', '279.00', '309.99', '319.00', '399.95']
 
 
 
